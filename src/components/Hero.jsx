@@ -66,18 +66,18 @@ export default function Hero() {
       </p>
 
       <div className="w-full absolute bottom-0 left-0 flex justify-between px-8 py-8">
-        <div className="w-[23vw]">
+        <div className="w-[26vw]">
           <p
-            className="text-lg leading-none"
+            className="text-[1.6vw] leading-tight"
             style={{ fontFamily: "'Mouse Memoirs', sans-serif" }}
           >
             Smashed hot on the flat top, our prime patties lock in ultimate
             juiciness under a caramelized crust.
           </p>
         </div>
-        <div className="w-[23vw]">
+        <div className="w-[26vw]">
           <p
-            className="text-lg leading-none text-right"
+            className="text-[1.6vw] leading-tight text-right"
             style={{ fontFamily: "'Mouse Memoirs', sans-serif" }}
           >
             Topped with melted cheddar and our signature chili honey glaze
